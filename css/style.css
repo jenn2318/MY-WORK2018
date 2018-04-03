@@ -1,0 +1,29 @@
+
+body {
+	background-color: gray;
+}
+
+.bigdiv{
+	background-color: orchid;
+	padding: 15px;
+	/*margin: 20%*/
+}
+
+.medium {
+	background-color: teal;
+	padding: 20px;
+	/*margin: 10 10 10 10*/
+}
+
+.color {
+   background-color: pink;
+   padding: 15px;
+   /*margin: 10 15 10 15*/
+}
+
+.smalldiv {
+  background-color: yellow;
+  padding: 15px;
+/*  margin: 10 10 10 10;*/
+
+}
